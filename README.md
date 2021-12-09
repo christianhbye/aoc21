@@ -1,1 +1,1 @@
-My Python solutions to Advent of Code 2021: https://adventofcode.com/
+My solutions to Advent of Code 2021: https://adventofcode.com/
